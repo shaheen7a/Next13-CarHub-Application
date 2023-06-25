@@ -7,7 +7,7 @@ Thanks for checking out this Application.
 ![Next13-CarHub-Application](./showcase/web-view02.gif)
 
 ## Overview
-Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries
+With CarHub users can access various car-related content, including news, reviews, and pricing information. Browse the range, add their favorite cars to a wishlist, and subscribe to receive notifications about new content.
 
 ### Links
 
@@ -20,7 +20,9 @@ Simplify your reading with Summize, an open-source article summarizer that trans
 
 - Next JS 13
 - Tailwind
-
+- Typescript
+- Cars by API-Ninjas
+- Vehicle Data API by Imagin Studio
 - JSX
 
 ## Author
